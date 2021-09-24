@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -6,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
 
-        <img src="https://www.amsterdam.nl/views/core/images/logos/andreas.png" />
+        <img alt="amsterdam-logo" src="https://www.amsterdam.nl/views/core/images/logos/andreas.png" />
         <p>
           Welkom bij de dataverkenner 3.0
         </p>
