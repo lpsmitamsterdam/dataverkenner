@@ -5,18 +5,12 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+
+        <img src="https://www.amsterdam.nl/views/core/images/logos/andreas.png" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Welkom bij de dataverkenner 3.0
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+          <a style={{color: "red"}} href="https://data.amsterdam.nl">Ga naar de oude omgeving</a>
       </header>
     </div>
   );
