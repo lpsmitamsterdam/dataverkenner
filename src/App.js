@@ -5,11 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
 
-        <img alt="amsterdam-logo" src="https://www.amsterdam.nl/views/core/images/logos/andreas.png" />
-        <p>
-          Welkom bij de dataverkenner 3.0, deze app draait in een container
-        </p>
-          <a style={{color: "red"}} href="https://data.amsterdam.nl">Ga naar de oude omgeving</a>
+       <h1>This is a sample app</h1>
       </header>
     </div>
   );
